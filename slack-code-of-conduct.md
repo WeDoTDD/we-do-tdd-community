@@ -76,7 +76,7 @@ Examples that are not ok:
  - "Dave you're an idiot, why do you like end to end tests!  Haven't you learned by now that those are painful?"
  - "wtf is wrong with you!  Nobody even uses that language anymore"
 
-### 📺Can I create a channel?
+### 📺 Can I create a channel?
 While some slack workspaces create tons of channels we try to maintain just a few.  This keeps things simple.  We rarely add new channels, but there have been some rare times we have added new ones.
 
 If you think a new channel would benefit the community, reach out to Dave Schinkel once you are signed in.  DM him and share your idea for the new channel and why.   
