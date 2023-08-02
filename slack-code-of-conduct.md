@@ -14,10 +14,10 @@ This group is focused on supporting technologists, specifically those in the Sof
 
 To Join, [click here](https://join.slack.com/t/wedotdd/shared_invite/zt-1c4v52w9u-1wj~L~yLcq0Gf7ltx9dH2g)
 
-### Okay I just logged into the group, now what?
+### 🚀 Okay I just logged into the group, now what?
 We encourage you to briefly introduce yourself in the `#introduce-yourself` channel and say hi to everyone!
 
-🚀 We also encourage everyone to add your crafter profile to WeDoTDD.com.  
+We also encourage everyone to **add your crafter profile to WeDoTDD.com**.  
 
 Calling all Women Crafters! (we need your presence), we want you there!  You can be an absolute TDD beginner or an experienced Practitioner.  Tell us about where you are in your journey to learn!  Filling it out is quick, no more than 10 minutes and you do it right in this Slack Workspace!
 
