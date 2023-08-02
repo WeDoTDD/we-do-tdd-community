@@ -9,12 +9,12 @@ All members of the community are expected to enforce this code at all times, wit
 ### What is the WeDoTDD.com Slack?
 The WeDoTDD.com slack workspace is mean to help grow and foster the the community found on [WeDoTDD.com](https://wedotdd.com).
 
-### 👤 Who can Join?
+### Who can Join?
 This group is focused on supporting technologists, specifically those in the Software profession who are interested in learning about or talking about Extreme Programming, Clean Code, Craftsmanship, and Apprenticeship.
 
 To Join, [click here](https://join.slack.com/t/wedotdd/shared_invite/zt-1c4v52w9u-1wj~L~yLcq0Gf7ltx9dH2g)
 
-### 🚀 Okay I just logged into the group, now what?
+### Okay I just logged into the group, now what?
 We encourage you to briefly introduce yourself in the `#introduce-yourself` channel and say hi to everyone!
 
 We also encourage everyone to **add your crafter profile to WeDoTDD.com**.  
@@ -23,7 +23,7 @@ Calling all Women Crafters! (we need your presence), we want you there!  You can
 
 Please watch this [quick 2 minute how-to video](https://www.youtube.com/watch?v=0GecNkIoXLM&feature=youtu.be) on how to add your profile to [WeDoTDD.com](https://wedotdd.com) using our WeDoTDD Slack App!
 
-### ❓ Need Help?
+### Need Help?
 Contact Dave Schinkel, who runs [WeDoTDD.com](https://wedotdd.com) via [wedotdd@gmail.com](mailto:wedotdd@gmail.com?subject=[WeDoTDD Slack Code of Conduct Inquiry])
 
 ### 👤👤 Workspace Administrators
