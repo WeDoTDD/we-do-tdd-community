@@ -1,2 +1,2 @@
 # WeDoTDD-Community
-Code of Conduct and more...
+[Slack Code of Conduct](slack-code-of-conduct.md)
