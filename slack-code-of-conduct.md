@@ -56,7 +56,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 ### 🚫 Government / Party Politics
 This is a political free zone.  We don't care about what party or government association you have.  It's a waste of time and we do not talk about what party you are affiliated with, nor do we want threads that talk about global politics in this community.  Just keep it to yourself.
 
-### ✅Passion for the Craft
+### ✅ Passion for the Craft
 It's fine to have strong opinions in here. That's what passion is.  If we can't be passionate even strongly, then what's the point of having a community.
 
 Just don't be rude about it.  It's ok to argue about code approaches, and even argue strongly for different approaches.  It's ok to be yourself as long as you're not outright demeaning or rude to one another when you have these passionate arguments.
