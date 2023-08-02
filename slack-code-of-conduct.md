@@ -26,7 +26,7 @@ Please watch this [quick 2 minute how-to video](https://www.youtube.com/watch?v=
 ### Need Help?
 Contact Dave Schinkel, who runs [WeDoTDD.com](https://wedotdd.com) via [wedotdd@gmail.com](mailto:wedotdd@gmail.com?subject=[WeDoTDD Slack Code of Conduct Inquiry])
 
-### 👤👤 Workspace Administrators
+#### Workspace Administrators
 Refers to the administrators of this online community.  You may reach out to any of them for help.
 
 Current administrators are the following folks in our slack workspace:
