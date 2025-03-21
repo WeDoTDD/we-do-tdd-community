@@ -39,9 +39,6 @@ We recognize we're not all perfect 100% of the time, we're human, but that we gu
 ### 👥 Diversity
 This is an intentionally anti-sexist, anti-racist, anti-homophobic, anti-transphobic, anti-ablest, anti-discrimination, and anti-harassment space. We value inclusion through and through!
 
-### LGBTQ+
-We support LGBTQ+.  But to be safe, please do not discuss in length, gender or sexual orientation in the community as there are varying understandings of it, misconceptions, and can often result in resentment if these discussions aren't treaded carefully.  It's fine to post LGBTQ+ specific events or jobs in the community.
-
 ### 😡 I have a problem with someone in this slack!
 Instead of lashing out at the person in channels, we ask that you please DM Dave Schinkel or one of the workspace administrators.  We'll help you.
 
