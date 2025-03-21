@@ -39,6 +39,9 @@ We recognize we're not all perfect 100% of the time, we're human, but that we gu
 ### 👥 Diversity
 This is an intentionally anti-sexist, anti-racist, anti-homophobic, anti-transphobic, anti-ablest, anti-discrimination, and anti-harassment space. We value inclusion through and through!
 
+### LGBTQ+
+We support LGBT.  But to be safe, please do not discuss gender or sexual orientation in the community as there are varying understandings of it, misconceptions, and can often result in resentment if these discussions aren't treaded carefully.
+
 ### 😡 I have a problem with someone in this slack!
 Instead of lashing out at the person in channels, we ask that you please DM Dave Schinkel or one of the workspace administrators.  We'll help you.
 
@@ -61,9 +64,6 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 ### 🚫 Government / Party Politics
 This is a political free zone.  We don't care about what party or government association you have.  It's a waste of time and we do not talk about what party you are affiliated with, nor do we want threads that talk about global politics in this community.  Just keep it to yourself.
-
-### LGBTQ+
-We support LGBT.  But to be safe, please do not discuss gender or sexual orientation in the community as there are varying understandings of it, misconceptions, and can often result in resentment if these discussions aren't treaded carefully.
 
 ### ✅ Passion for the Craft
 It's fine to have strong opinions in here. That's what passion is.  If we can't be passionate even strongly, then what's the point of having a community.
